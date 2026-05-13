@@ -1,0 +1,102 @@
+---
+title: "ASPIRE Newsletter Content"
+subtitle: "Six-monthly updates"
+author: "Jamie Wong"
+date: today
+toc: true
+toc-location: left
+toc-title: "Contents"
+toc-depth: 3
+language:
+  title-block-published: "Last Updated"
+format:
+  html:
+    embed-resources: true
+    theme:
+      light: yeti
+      dark: darkly
+---
+
+## Overview
+
+This is a public record of content to be used for newsletters for all work packages as part of the ASPIRE programme: A Sarcoma data Partnership to Improve patient outcome and Reduce inEqualities.
+
+This will include progress made on a bi-annual basis.
+
+
+
+---
+
+
+
+## 2026 May - Newsletter 1
+
+
+### Newsletter title
+
+Meet the ASPIRE team: using NHS data to understand what needs to change in sarcoma care 
+
+
+### What ASPIRE means for sarcoma 
+
+ASPIRE, the Sarcoma Data Partnership Programme, is now fully underway. Funded jointly by Sarcoma UK and the Bone Cancer Research Trust, the programme brings together clinicians, researchers, patients, and NHS data specialists to make the most of national cancer data collected in England. Sarcomas are rare and complex cancers, and people affected by sarcoma can face delays in diagnosis, differences in access to specialist care, and variation in treatment and support. ASPIRE aims to better understand where these differences exist, who is most affected, and how evidence from NHS data can help inform future improvements in sarcoma care. 
+
+
+### Introducing the team 
+
+#### Professor Sandra Strauss
+
+Professor Sandra Strauss is a Consultant Medical Oncologist at University College London Hospitals and leads the ASPIRE programme. She specialises in the systemic treatment of bone and soft tissue sarcomas in both adults and teenagers. Alongside her clinical work, she serves as the clinical lead for sarcoma and rare cancers within the NHS England National Disease Registration Service. Her work focuses on understanding variation in patient pathways and access to specialist services, with the aim of reducing inequalities and improving outcomes for people affected by rare cancers. 
+
+#### Reuben Hastings
+
+Reuben… 
+
+#### Jamie Wong
+
+Jamie is an epidemiologist and health data scientist by training and is working part-time as a Sarcoma Cancer Data Analyst on the ASPIRE programme. Alongside his role within ASPIRE, Jamie is completing his PhD in Epidemiology at UCL, and also serves as an Honorary Data Scientist within the West and North London ICB, where he uses statistical methods to evaluate changes in NHS commissioning and service delivery. Within ASPIRE, his work focuses on understanding patterns in delayed diagnosis and treatment for sarcoma patients, and developing a clinician facing dashboard to support clearer reporting of sarcoma care data quality across England. 
+
+#### Charlotte Judge
+
+Charlotte is a Senior Cancer Intelligence analyst within the National Disease Registration Service (NDRS), where she has played a key role in delivering and developing the National Cancer Quality of Life Survey, contributing to a deeper understanding of patient outcomes and the lived experience of those affected by cancer. Alongside this work, Charlotte has a strong interest in User‑Centred Design, applying design principles that ensure services are shaped around the needs and behaviours of the people who use them. She is also engaged in advancing Reproducible Analytical Pipelines, working on improving how data analysis is done across the organisation, helping to create processes that are consistent, transparent, and easy for others to reuse. Charlotte supports the ASPIRE programme part-time with a particular interest in Work Package 4: Patient Experience.  
+
+
+### Core work packages 
+
+We have broken down the ASPIRE programme into six core work packages, each tackling a different aspect of sarcoma care: 
+
+#### Work Package 1: Earlier and more accurate diagnosis
+
+This work package focuses on understanding delays in sarcoma diagnosis and treatment across England. It will look at which groups of patients are diagnosed too slowly, what their “route to diagnosis” is, and whether delays vary by geography or patient characteristics. 
+
+#### Work Package 2: Access to specialist care
+
+This work package will examine whether all patients have fair access to specialist sarcoma care, including specialist MDT review, surgery, radiotherapy and proton beam therapy. The aim is to identify groups who are currently not receiving specialist management, so that the NHS can implement changes to help support these patients. 
+
+#### Work Package 3: Access to new therapies and innovation
+
+This work package focuses on access to genomic testing, clinical trials, new drugs, tumour ablation and stereotactic ablative body radiotherapy. The first stage will include pilot work to understand whether the quality of available data is sufficient to answer these questions. 
+
+#### Work Package 4: Patient experience
+
+This work package will explore what patient-reported data are available for sarcoma and how they could be used to better understand patient experience. The team will also survey patients and the sarcoma community to identify which questions matter most to people affected by sarcoma. 
+
+#### Work Package 5: Engagement and dissemination
+
+This work package focuses on sharing ASPIRE’s findings with patients, clinicians, charities and the wider sarcoma community. It includes plans for the development of a dashboard to help clinicians understand local variation in care and data quality, and to support improvements across sarcoma services. 
+
+#### Work Package 6: Project management
+
+This work package ensures the ASPIRE partnership runs effectively and stays on track. A steering group of sarcoma experts, analysts, charities and patient representatives will provide regular feedback, review progress and help address any challenges that arise. 
+
+ 
+### Looking ahead
+
+Over the coming months, the team will continue developing analysis plans, reviewing available data, and drafting initial outputs for review with key stakeholders. 
+
+We are grateful to everyone affected by sarcoma whose data, experience and support make this work possible. Through ASPIRE, we hope to translate national sarcoma data into evidence that can help make care faster, fairer and more consistent for everyone affected by sarcoma across England.
+
+
+
+---
+
