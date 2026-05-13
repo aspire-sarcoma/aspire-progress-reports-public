@@ -1,3 +1,5 @@
 # ASPIRE Progress Reports - Public
-Public progress reports and content for newsletters for all ASPIRE work packages.
-This will include progress made on a quarterly / bi-annual basis.
+
+This is a public record of content to be used for newsletters for all work packages as part of the ASPIRE programme: A Sarcoma data Partnership to Improve patient outcome and Reduce inEqualities.
+
+This will include progress made on a bi-annual basis.
