@@ -21,7 +21,7 @@ format:
 
 This is a public record of content to be used for newsletters for all work packages as part of the ASPIRE programme: A Sarcoma data Partnership to Improve patient outcome and Reduce inEqualities.
 
-This will include progress made on a bi-annual basis.
+This will include progress made on a twice-yearly basis.
 
 
 
@@ -50,11 +50,11 @@ Professor Sandra Strauss is a Consultant Medical Oncologist at University Colleg
 
 #### Reuben Hastings
 
-Reuben… 
+Reuben has a background in biology and public health and is a full time Sarcoma Cancer Data Analyst on the ASPIRE programme. He has worked with Professor Strauss since 2022, using sarcoma patient data held by NDRS to study sarcoma epidemiology and management in England. He’ll be working across all the ASPIRE projects, focusing on identifying inequality in access to different aspects of sarcoma care. 
 
 #### Jamie Wong
 
-Jamie is an epidemiologist and health data scientist by training and is working part-time as a Sarcoma Cancer Data Analyst on the ASPIRE programme. Alongside his role within ASPIRE, Jamie is completing his PhD in Epidemiology at UCL, and also serves as an Honorary Data Scientist within the West and North London ICB, where he uses statistical methods to evaluate changes in NHS commissioning and service delivery. Within ASPIRE, his work focuses on understanding patterns in delayed diagnosis and treatment for sarcoma patients, and developing a clinician facing dashboard to support clearer reporting of sarcoma care data quality across England. 
+Jamie is an epidemiologist and health data scientist by training and is working part-time as a Sarcoma Cancer Data Analyst on the ASPIRE programme. Alongside his role within ASPIRE, Jamie is completing his PhD in Epidemiology at University College London, and also serves as an Honorary Data Scientist within the West and North London ICB, where he uses statistical methods to evaluate changes in NHS commissioning and service delivery. Within ASPIRE, his work focuses on understanding patterns in delayed diagnosis and treatment for sarcoma patients, and developing a clinician facing dashboard to support clearer reporting of sarcoma care data quality across England. 
 
 #### Charlotte Judge
 
